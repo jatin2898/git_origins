@@ -1,6 +1,6 @@
-#INTRODUCTION
+# INTRODUCTION
 
-###my first git repository that includes most of the basic concepts
+### my first git repository that includes most of the basic concepts
 
 
 
